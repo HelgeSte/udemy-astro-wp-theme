@@ -12,5 +12,6 @@
     },
     "supports": {
         "mode": false
-    }
+    },
+    "style": ["file:./style.css"]
 }
